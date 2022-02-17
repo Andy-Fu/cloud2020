@@ -1,0 +1,4 @@
+server:
+  port: 9001
+
+  #Hystrix Dashborad的访问路径为 http://localhost:9001/hystrix
